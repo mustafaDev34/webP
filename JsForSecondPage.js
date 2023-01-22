@@ -6,5 +6,5 @@ wrongText.textContent = localStorage.getItem('wrongLetters');
 
 function goHomeButtonClicked(){
     
-    window.location = "https://mustafadev34.github.io/webP/Second.html";
+    window.location = "https://mustafadev34.github.io/webP/Main.html";
 }
