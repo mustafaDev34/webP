@@ -48,7 +48,7 @@
     timerElement.textContent = "";
     document.querySelector('#randomWord').textContent = "";
     document.getElementById('button').removeAttribute("disabled");
-    window.location = "http://127.0.0.1:5500/second.html";
+    window.location = "https://mustafadev34.github.io/webP/Second.html";
   }
 
   function capsLockActive() {
