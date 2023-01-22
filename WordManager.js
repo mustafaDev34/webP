@@ -10,7 +10,7 @@
       document.getElementById('button').setAttribute("disabled","disabled");
     clearInterval(intervalId);
 
-     let timer = 5;
+     let timer = 60;
      timerElement.textContent = "Remeaning Time: "+timer;
 
 
